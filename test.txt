@@ -1,3 +1,2 @@
-foo is foo
-bar is bar
-baz is baz
+I'm kyanny.
+I don't like JavaScript.
