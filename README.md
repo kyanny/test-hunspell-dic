@@ -74,3 +74,5 @@ Memory: 1981M
 Cores: 8
 Non-Bundled Plugins: com.intellij.plugins.watcher, hunspell, name.kropp.intellij.makefile, org.jetbrains.kotlin, org.jetbrains.plugins.ruby, Pythonid, org.jetbrains.plugins.go
 ```
+
+[Hunspell plugin 203.6682.78](https://plugins.jetbrains.com/plugin/10275-hunspell/versions/stable/110283)
